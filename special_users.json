@@ -1,0 +1,4 @@
+{
+    "managers": ["manager1", "manager2"],
+    "reviewers": ["reviewer1", "reviewer2"]
+}
